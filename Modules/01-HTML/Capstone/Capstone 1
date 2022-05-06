@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body>
+    <h1>Maryam the <span style="color:blue;">Pet Sitter</span></h1>
+    <p>I am a freelance pet sitter.</p>
+
+
+    <p><h3>At-home pet sitting service benefits</h3></p>
+    <ol>
+        <li>Your pets won't have to leave their natural environment</li>
+        <li>Peace of mind about your pets while you are away</li>
+        <li>Regular updates on your pets</li>
+      </ol>
+
+    <table>
+        <tr>
+          <th>Channel</th>
+          <th>Phone number</th>
+          <th>Booking link</th>
+        </tr>
+        <tr>
+          <td>Instagram @maryampetsitting</td>
+          <td>+60123456789</td>
+          <td>Book here</td>
+        </tr>
+      </table>
+      <h3>Contact form</h3>
+      <form>
+        <div>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname"><br>
+        <input type="submit" value="Submit">
+        </div>
+      </form>
+</body>
+</html>
